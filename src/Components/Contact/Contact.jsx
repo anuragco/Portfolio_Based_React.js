@@ -1,21 +1,21 @@
 import React, { useState } from 'react'
 import './Contact.css'
-import emailjs from '@emailjs/browser';
+// import emailjs from '@emailjs/browser';
 import { useRef } from 'react';
 const Contact = () => {
 
     const form = useRef();
     const [done, setDone] = useState(false)
     const sendEmail = (e) => {
-      e.preventDefault();
+    //   e.preventDefault();
   
-      emailjs.sendForm('service_pbk96d8', 'template_v9bijpc', form.current, 'wyeMuCTypIGGg97jC')
-        .then((result) => {
-            console.log(result.text);
-            setDone(true);
-        }, (error) => {
-            console.log(error.text);
-        });
+    //   emailjs.sendForm('service_pbk96d8', 'template_v9bijpc', form.current, 'wyeMuCTypIGGg97jC')
+    //     .then((result) => {
+    //         console.log(result.text);
+    //         setDone(true);
+    //     }, (error) => {
+    //         console.log(error.text);
+    //     });
     };
 
 

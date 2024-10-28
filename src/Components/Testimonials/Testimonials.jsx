@@ -15,23 +15,23 @@ const Testimonials = () => {
     const clients = [
         {
             img: Profile1,
-            review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore sequi et tenetur nisi doloribus distinctio reiciendis fuga neque architecto nobis quam vel iure, porro dolorum minima. Officiis aliquam cumque possimus?'
+            review: 'Working with Jeeva was an absolute game-changer for our project. His expertise in development, attention to detail, and commitment to deadlines helped bring our vision to life seamlessly. Jeeva not only understood our needs but also provided valuable insights that enhanced the final product. Highly recommend him for any project!'
         },
         {
             img: Profile2,
-            review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore sequi et tenetur nisi doloribus distinctio reiciendis fuga neque architecto nobis quam vel iure, porro dolorum minima. Officiis aliquam cumque possimus?'
+            review: 'Working with Jeeva was an absolute game-changer for our project. His expertise in development, attention to detail, and commitment to deadlines helped bring our vision to life seamlessly. Jeeva not only understood our needs but also provided valuable insights that enhanced the final product. Highly recommend him for any project!'
         },
         {
             img: Profile3,
-            review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore sequi et tenetur nisi doloribus distinctio reiciendis fuga neque architecto nobis quam vel iure, porro dolorum minima. Officiis aliquam cumque possimus?'
+            review: 'Working with Jeeva was an absolute game-changer for our project. His expertise in development, attention to detail, and commitment to deadlines helped bring our vision to life seamlessly. Jeeva not only understood our needs but also provided valuable insights that enhanced the final product. Highly recommend him for any project!'
         },
         {
             img: Profile4,
-            review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore sequi et tenetur nisi doloribus distinctio reiciendis fuga neque architecto nobis quam vel iure, porro dolorum minima. Officiis aliquam cumque possimus?'
+            review: 'Working with Jeeva was an absolute game-changer for our project. His expertise in development, attention to detail, and commitment to deadlines helped bring our vision to life seamlessly. Jeeva not only understood our needs but also provided valuable insights that enhanced the final product. Highly recommend him for any project!'
         },
         {
             img: Profile5,
-            review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore sequi et tenetur nisi doloribus distinctio reiciendis fuga neque architecto nobis quam vel iure, porro dolorum minima. Officiis aliquam cumque possimus?'
+            review: 'Working with Jeeva was an absolute game-changer for our project. His expertise in development, attention to detail, and commitment to deadlines helped bring our vision to life seamlessly. Jeeva not only understood our needs but also provided valuable insights that enhanced the final product. Highly recommend him for any project!'
         },
     ]
 

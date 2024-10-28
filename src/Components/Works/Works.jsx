@@ -13,7 +13,7 @@ const Works = () => {
             <div className="awesome">
     <span>Work For All These</span>
     <span>Brand & Client</span>
-    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Quibusdam minima dolorum totam voluptatem voluptate,<br /> soluta repellendus iure culpa quidem ut adipisci.<br />nulla incidunt, repellendus iure culpa quidem ut adipisci.<br />nulla incidunt, repellendus iure culpa quidem ut adipisci.</span>
+    <span>I’ve had the privilege to work with a diverse range of brands <br /> and clients, delivering customized digital solutions that <br /> elevate their online presence and achieve impactful results.</span>
     
     <button className="button s-button">Hire Me</button>
     

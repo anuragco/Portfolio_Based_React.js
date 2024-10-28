@@ -23,18 +23,16 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           <span>Hy! I Am </span>
-          <span>Aditya Raj</span>
+          <span>Jeevan</span>
           <span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
-            totam natus voluptas porro nemo alias <br /> accusantium ab repellendus
-            atque illum?
+            A Passionate Full Stack JavaScript Developer | Crafting Seamless User Experiences with React, Node, and Next.js
           </span>
         </div>
-        <button className=" button i-button">Hire Me</button>
+        <button className=" button i-button" onClick={()=> (window.location.href="mailto:jeevankr9142@gmail.com")}>Hire Me</button>
         <div className="i-icon">
-          <img src={Github} alt="" srcset="" />
-          <img src={LinkedIn} alt="" srcset="" />
-          <img src={Instagram} alt="" srcset="" />
+          <img src={Github} alt="" srcset="" onClick={() => (window.location.href= "https://github.com/jeevansarma" )} />
+          <img src={LinkedIn} alt="" srcset="" onClick={() => (window.location.href= "https://www.linkedin.com/in/jeevan-kumar-091875324/" )}/>
+          <img src={Instagram} alt="" srcset="" onClick={() => (window.location.href= "https://www.instagram.com/jeevan.0574/profilecard/?igsh=M2hjMGZsbThmcGR5" )}/>
         </div>
       </div>
       <div className="i-right">

@@ -18,7 +18,7 @@ const Services = () => {
     <div className="awesome">
     <span>My Awesome</span>
     <span>Services</span>
-    <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam minima dolorum totam voluptatem voluptate, soluta obcaecati assumenda <br />nulla incidunt, repellendus iure culpa quidem ut adipisci.</span>
+    <span>I offer comprehensive digital services, including freelancing, website and app development, and end-to-end project support, <br /> delivering tailored, high-quality solutions to meet unique business needs and drive success..</span>
     <a href={Resume} target='_blank'>
     <button className="button s-button">Download CV</button>
     </a>
